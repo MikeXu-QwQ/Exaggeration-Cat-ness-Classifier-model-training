@@ -10,7 +10,9 @@ ResNet‑50 (CNN-based)
 Vision Transformer (ViT‑Base, Transformer-based)
 
 AIMODEL
+
 https://huggingface.co/microsoft/resnet-50
+
 https://huggingface.co/google/vit-base-patch16-224
 
 The goal is to analyze:
